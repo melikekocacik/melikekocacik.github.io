@@ -4,7 +4,7 @@ leader public statements: an examination of
 the United States’ statements about Bosnia and
 Kosovo"
 collection: research
-permalink: /research/security
+permalink: /research/publications
 excerpt: '(with [Asli Cansunar](https://www.aslicansunar.com) and [Gozde Corekcioglu](https://www.gozdecorekcioglu.com)), *Forthcoming at the Journal of Politics*
 
 
