@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-{% for post in site.publication reversed %}
+{% for post in site.publications reversed %}
   <h3>{{ post.title }}</h3>
   <p><strong>{{ post.authors }}</strong><br>
   <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}</p>
